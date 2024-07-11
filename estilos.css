@@ -1,0 +1,147 @@
+
+@font-face {
+	font-family: "Airstrike Bold";
+	src: url("fuentes/airstrike/airstrikebold.ttf"); 
+	
+}
+
+h1 {
+	
+    color: #d12c24;
+	text-align: center;
+	border-width: 5px;
+	border-color: black;
+	border-radius: 20px;
+	border-bottom-style: inset;
+	border-bottom-width:5px;
+	border-top-style: inset ;
+	border-bottom-width: 5px;
+	margin-left: 35%;
+	margin-right: 35%;
+	
+	
+	text-shadow: 0px 1px 0px;
+	background-color: gold;
+	font-family: "Airstrike Bold";
+	font-size: 40px;
+}
+body 
+ { 
+	 background-image: url("fondos/fondo1.jpg");
+ 
+	font-family: palatino;
+ }
+
+ h2 
+ {
+
+	margin-left: 3%;
+	margin-right: 3%;
+	color: #363533;
+	text-shadow: 1px 1px 1px;
+	text-decoration: underline;
+	font-family: Arial, Sans-serif;
+ }
+ 
+ p  
+ {
+	 text-align: justify;
+	 margin-left: 5%;
+	 margin-right: 5%;
+	 font-family: bodoni, Sans-serif;
+	 font-size: 17px;
+	 line-height:25px;
+ }
+ table 
+ {
+	 margin-left: 25%;
+	 margin-right: 25%;
+	 margin: auto;
+	 background-color: gold;
+	 border-width: 5px;
+	 border-bottom-width:5px;
+	 border-top-style: inset;
+	 text-shadow: 1px 0px 0px;
+ }
+ ul 
+ {
+	 margin-left: 3%;
+	 margin-right: 3%;
+	 color: #348047;
+	 font-size: 19px;
+ }
+ ol 
+ {
+	 margin-left: 3%;
+	 margin-right: 3%;
+	 font-size: 18px;
+	 color: #348047;
+ }
+ h3 
+ {
+	 margin-left: 3%;
+	 margin-right: 3%;
+	 font-size: 22px;
+ }
+ img 
+ { 
+	 
+	 margin-right: 1%;
+	 box-shadow: 3px 3px 2px;
+	 border-radius: 12px;
+	 margin-bottom: 10px;
+	 color: #cc0e28;
+	 text-decoration:none;
+ }
+ .diferente1 
+ {
+	 display: block;
+	 margin: auto;
+ }
+
+ 
+ 
+ a:link, a:visited
+ {
+		font-size: 8px;
+		color: #3268bf;
+		display: inline-block;
+		
+		text-align:center;
+		margin-right: 3%;
+		margin-left: 3%;
+		margin-bottom: 2%;
+		margin-top: 1%;
+		
+		
+
+ }
+ a:hover 
+ {
+	 color:#1f1e1e;
+	 background-color: gray;
+	 text-decoration: none;
+	 color:white;
+	 
+	 
+ }
+ 
+ .diferente3 
+ {
+		margin-right: 3%;
+		margin-left: 3%;
+     	display: block;
+		color: #a8adb5;
+ }
+ 
+ .gale:hover{
+	 
+	  background-color: transparent;
+ }
+ 
+  .foto{
+	  display: none;
+	  
+	 
+ }
+ 
